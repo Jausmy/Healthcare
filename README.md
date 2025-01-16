@@ -55,6 +55,7 @@ The overall financial performance of the healthcare center is summarized by the 
 |Average Out-of-Pocket Expenses|$227.26|
 |Total Room Charges|$180k|
 |Average Room Charges|$36.12|
+
 (Insert visualizations: Key performance indicators displayed as cards or gauges)
 
 ### Analysis of Financial Performance by Department
