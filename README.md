@@ -93,7 +93,7 @@ Based on the analysis of financial performance and provider insights, the follow
 
 ## Potential Impact of Recommendations
 By implementing these recommendations, the healthcare centre can anticipate the following positive outcomes:
--	Increased Revenue: Optimizing resource allocation, improving efficiency, and enhancing patient experience can potentially lead to a 5-10% increase in revenue within the next year.
+-	Increased Revenue: Optimizing resource allocation, improving efficiency, and enhancing patient experience can potentially lead to a 5% increase in revenue within the next year.
 -	Improved Financial Performance: By effectively managing costs and increasing revenue, the healthcare centre can improve its overall financial performance and sustainability.
 -	Enhanced Patient Satisfaction: Focusing on patient-centered care and addressing disparities in healthcare access can lead to increased patient satisfaction and loyalty.
 
