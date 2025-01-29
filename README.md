@@ -78,7 +78,7 @@ The analysis revealed some differences in financial performance based on patient
 -	Race: Black patients had the highest average billing amount ($686.66), while Asian patients had the lowest ($664.39).
 These differences may warrant further investigation to understand the underlying factors and ensure equitable healthcare access and affordability for all patient demographics.
 
-### Provider Insights
+## Provider Insights
 The analysis of provider performance revealed the following insights:
 -	Provider Efficiency: Dr. Sade Kikiola saw the most patients (1873), while Dr. Johnson Grek saw the least (445).
 -	Treatment Costs: Dr. Emma Jones had the highest average treatment cost ($539.80), while Dr. Olu Abisola had the lowest average treatment cost ($520.84).
