@@ -21,13 +21,7 @@ The primary data source for this analysis is a healthcare dataset comprising 8 t
 
 ![Visits-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Visits).png)
 
-![Providers-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Providers).png)
-
-![Procedures-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Procedures).png)
-
 ![Patients-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Patients).png)
-
-![Insurance-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Insurance).png)
 
 ### Tools Used
 The following tools were used for data analysis and visualization:
