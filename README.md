@@ -1,4 +1,5 @@
 # Data Portfolio: Healthcare Dataset Dashboard
+![Healthcare-Project-Main-Image](Assets/Images/Healthcare%20Main%20Image.jpg)
 
 ## Overview
 This report presents a comprehensive analysis of the financial performance of a healthcare centre and provides insights into the efficiency and effectiveness of its healthcare providers. By examining key performance indicators (KPIs) and trends, we aim to provide a clear understanding of the centre's financial health and identify areas for potential improvement.
@@ -17,6 +18,16 @@ The primary data source for this analysis is a healthcare dataset comprising 8 t
 -	Diagnosis: Lists the different diagnoses made at the centre.
 -	Departments: Lists the various departments within the healthcare centre.
 -	Cities: Provides a list of cities and states where patients reside.
+
+![Visits-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Visits).png)
+
+![Providers-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Providers).png)
+
+![Procedures-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Procedures).png)
+
+![Patients-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Patients).png)
+
+![Insurance-Table](Assets/Images/Healthcare%20-%20Data%20Source%20(Insurance).png)
 
 ### Tools Used
 The following tools were used for data analysis and visualization:
@@ -40,6 +51,8 @@ In the future, we can leverage additional data analysis techniques to further re
 
 ## Analysis of Financial Performance
 ### Overall KPIs
+![Overall-Dashboard](Assets/Images/Healthcare%20-%20Overall%20Dashboard.png)
+
 The overall financial performance of the healthcare centre is summarized by the following KPIs:
 
 |KPI|Value|
