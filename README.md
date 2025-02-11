@@ -73,28 +73,60 @@ The overall financial performance of the healthcare centre is summarized by the 
 ### Analysis of Financial Performance by Department
 Cardiology had the highest overall billing amount by department with $846,925.00 (25.2% of total billing), while Pediatrics had the lowest overall billing amount by department with $434,450.00 (12.9% of the total billing). This suggests that Cardiology is a key revenue driver for the healthcare centre, while Pediatrics may require further investigation to understand the reasons for its lower billing amount.
 
+![Billing-By-Dept](Assets/Images/Healthcare%20-%20Total%20Billing%20By%20Dept.png)
+
 ### Analysis of Financial Performance by Procedure
 X-rays had the highest overall billing amount by procedure with $1,053,529.00, while blood tests had the lowest overall billing amount by procedure with $414,952.00. This indicates that X-rays are a significant contributor to the centre's revenue, while blood tests may require further analysis to understand their lower billing amount.
+
+![Billing-By-Procedure](Assets/Images/Healthcare%20-%20Total%20Billing%20By%20Procedure.png)
 
 ### Analysis of Financial Performance by Service Type
 Outpatient service type had the highest percentage of total billing between emergency and inpatient in every diagnosis. Inpatient service type had the lowest percentage of total billing between emergency and outpatient for every diagnosis category except for hypertension and appendicitis, where emergency had the lowest total billing amount. This suggests that outpatient services are a major source of revenue for the healthcare centre, while inpatient services may require further examination to optimize resource allocation and potentially increase revenue.
 
+![Billing-By-Service](Assets/Images/Healthcare%20-%20Total%20Billing%20%.png)
+
 ### Analysis of Financial Performance by Month
 January had the highest total billing with $852.14k (avg. $689.99), while October had the lowest billing with $29.20k (avg. $648.82) due to a low number of patients. This highlights a potential seasonal trend in healthcare utilization and revenue generation. Further investigation is needed to understand the factors contributing to the low patient volume in October and explore strategies to potentially increase revenue during that month.
+
+![January-Performance](Assets/Images/Healthcare%20-%20Jan%20KPIs.png)
+
+![October-Performance](Assets/Images/Healthcare%20-%20Oct%20KPIs.png)
 
 ### Analysis of Financial Performance by City
 Birmingham had the highest average billing amount per visit with $703.08, while Leeds had the lowest average billing amount per visit with $638.75. This suggests potential variations in healthcare costs or service utilization across different cities. Further analysis is needed to understand the factors contributing to these differences.
 
+![Birmingham-KPIs](Assets/Images/Healthcare%20-%20Birmingham%20KPIs.png)
+
+![Leeds-KPIs](Assets/Images/Healthcare%20-%20Leeds%20KPIs.png)
+
 ### Analysis of Financial Performance by Patient Demographics
 The analysis revealed some differences in financial performance based on patient demographics:
 -	Gender: Female patients had a slightly lower average billing amount ($674.38) compared to male patients ($675.34).
+
+![Female-KPIs](Assets/Images/Healthcare%20-%20Female%20KPIs.png)
+
+![Male-KPIs](Assets/Images/Healthcare%20-%20Male%20KPIs.png)
+  
 -	Race: Black patients had the highest average billing amount ($686.66), while Asian patients had the lowest ($664.39).
 These differences may warrant further investigation to understand the underlying factors and ensure equitable healthcare access and affordability for all patient demographics.
+
+![Black-KPIs](Assets/Images/Healthcare%20-%20Black%20KPIs.png)
+
+![Asian-KPIs](Assets/Images/Healthcare%20-%20Asian%20KPIs.png)
 
 ## Provider Insights
 The analysis of provider performance revealed the following insights:
 -	Provider Efficiency: Dr. Sade Kikiola saw the most patients (1873), while Dr. Johnson Grek saw the least (445).
+
+![Dr.-Sade-KPIs](Assets/Images/Healthcare%20-%20Dr.%20Sade%20KPIs.png)
+
+![Dr.-Johnson-KPIs](Assets/Images/Healthcare%20-%20Dr.%20Johnson%20KPIs.png)
+
 -	Treatment Costs: Dr. Emma Jones had the highest average treatment cost ($539.80), while Dr. Olu Abisola had the lowest average treatment cost ($520.84).
+
+![Dr.-Emma-KPIs](Assets/Images/Healthcare%20-%20Dr.%20Johnson%20KPIs.png)
+
+![Dr.-Olu-KPIs](Assets/Images/Healthcare%20-%20Dr.%20Olu%20KPIs.png)
 
 ## Recommendations
 Based on the analysis of financial performance and provider insights, the following recommendations are proposed:
