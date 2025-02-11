@@ -83,7 +83,7 @@ X-rays had the highest overall billing amount by procedure with $1,053,529.00, w
 ### Analysis of Financial Performance by Service Type
 Outpatient service type had the highest percentage of total billing between emergency and inpatient in every diagnosis. Inpatient service type had the lowest percentage of total billing between emergency and outpatient for every diagnosis category except for hypertension and appendicitis, where emergency had the lowest total billing amount. This suggests that outpatient services are a major source of revenue for the healthcare centre, while inpatient services may require further examination to optimize resource allocation and potentially increase revenue.
 
-![Billing-By-Service](Assets/Images/Healthcare%20-%20Total%20Billing%20%.png)
+![Billing-By-Service](Assets/Images/Healthcare%20-%20Total%20Billing%20By%20Service.png)
 
 ### Analysis of Financial Performance by Month
 January had the highest total billing with $852.14k (avg. $689.99), while October had the lowest billing with $29.20k (avg. $648.82) due to a low number of patients. This highlights a potential seasonal trend in healthcare utilization and revenue generation. Further investigation is needed to understand the factors contributing to the low patient volume in October and explore strategies to potentially increase revenue during that month.
