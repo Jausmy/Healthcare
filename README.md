@@ -2,10 +2,10 @@
 ![Healthcare-Project-Main-Image](Assets/Images/Healthcare%20Main%20Image.jpg)
 
 ## Overview
-This report presents a comprehensive analysis of the financial performance of a healthcare centre and provides insights into the efficiency and effectiveness of its healthcare providers. By examining key performance indicators (KPIs) and trends, we aim to provide a clear understanding of the centre's financial health and identify areas for potential improvement.
+This report presents a comprehensive analysis of the financial performance of healthcare centres and provides insights into the efficiency and effectiveness of their healthcare providers. By examining key performance indicators (KPIs) and trends, we aim to provide a clear understanding of the centres' financial health and identify areas for potential improvement.
 
 ## Executive Summary
-By examining key metrics such as billing amounts, medication costs, treatment costs, insurance coverage, and out-of-pocket expenses, we identified key trends and areas for potential improvement. A key insight from the analysis is that Cardiology consistently emerged as the department with the highest overall billing amount, while Pediatrics had the lowest [(see Analysis of Financial Performance by Department)](#Analysis-of-Financial-Performance-by-Department). Based on the analysis, we recommend focusing on optimizing resource allocation and service delivery in high-revenue departments like Cardiology, while exploring strategies to improve efficiency and potentially increase revenue in lower-performing departments like Pediatrics. By implementing these recommendations, the healthcare centre can potentially increase revenue by 5% and improve overall financial performance [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).
+By examining key metrics such as total billing amounts, medication costs, treatment costs, insurance coverage, and out-of-pocket expenses, we identified key trends and areas for potential improvement. A key insight from the analysis is that Cardiology consistently emerged as the department with the highest overall total billing amount, while Pediatrics had the lowest [(see Analysis of Financial Performance by Department)](#Analysis-of-Financial-Performance-by-Department). Based on the analysis, we recommend focusing on optimizing resource allocation and service delivery in high-revenue departments like Cardiology, while exploring strategies to improve efficiency and potentially increase revenue in lower-performing departments like Pediatrics. By implementing these recommendations, the healthcare centres can potentially increase revenue by 5% and improve overall financial performance [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).
 
 ## Methodology
 ### Data Sources
@@ -36,7 +36,6 @@ The following data analysis techniques were employed:
 -	KPI Analysis: We calculated key performance indicators (KPIs) such as total billing amount, average billing amount per visit, total medication cost, average medication cost, total treatment cost, average treatment cost, total insurance coverage, average insurance coverage, total out-of-pocket expenses, and average out-of-pocket expenses. This involved aggregating data from the Visits table and calculating relevant metrics to assess the financial performance of the healthcare centre.
 -	Trend Analysis: We analyzed trends in billing amounts and patient visits over time, specifically by month of the year. This involved aggregating data by month to identify any seasonal patterns or significant fluctuations in financial performance.
 -	Comparative Analysis: We compared financial performance and patient demographics across different categories such as gender, race, diagnosis, and city. This involved grouping data by these categories and calculating relevant KPIs to identify any disparities or significant differences in healthcare utilization and costs.
--	Diagnostic Analysis: This analysis was used to identify the root cause of the low billing amount in October. By examining various factors such as patient demographics, diagnoses, and service types, we aimed to understand the underlying reasons for the low financial performance in that specific month.
 
 ## Future Considerations for Data Analysis
 In the future, we can leverage additional data analysis techniques to further refine our understanding of the healthcare centre's performance and identify areas for improvement. These techniques include:
@@ -118,7 +117,7 @@ The analysis of provider performance revealed the following insights:
 
 -	Treatment Costs: Dr. Emma Jones had the highest average treatment cost ($539.80), while Dr. Olu Abisola had the lowest average treatment cost ($520.84).
 
-![Dr.-Emma-KPIs](Assets/Images/Healthcare%20-%20Dr.%20Johnson%20KPIs.png)
+![Dr.-Emma-KPIs](Assets/Images/Healthcare%20-%20Dr.%20Emma%20KPIs.png)
 
 ![Dr.-Olu-KPIs](Assets/Images/Healthcare%20-%20Dr.%20Olu%20KPIs.png)
 
